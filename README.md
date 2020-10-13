@@ -1,4 +1,4 @@
-# HackTheBox Invide Code Generator
+# HackTheBox Invite Code Generator
 - This script is for speed up the process!.Try first to solve it if you're beginner ,Don't be a cheater :)
 
 <br><br>
